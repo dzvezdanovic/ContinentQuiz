@@ -1,0 +1,73 @@
+body {
+    font-family: '-apple-system','HelveticaNeue'; 
+}
+
+.colour {
+    color: #707070;
+    margin: 10px 0;
+}
+
+.ranking {
+    overflow: auto;
+    margin-top: 20px;
+}
+
+.no {
+    float: left;
+    border: 1px solid #3C8D6C;
+    border-radius: 25%;
+    color: #3C8D6C;
+    font-size: 2em;
+    padding: 10px;
+    font-weight: bold;
+}
+
+.score {
+    float: left;
+    margin-left: 10px;
+}
+
+.date {
+    color: #C8C8C8;
+    font-size: 1.2em;
+}
+
+.pts {
+    color: #707070;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+.home {
+    border-radius: 15px;
+    color: white;
+    padding: 10px;
+    background-color: #0050A5;
+    float: left;
+    margin-bottom: 20px; 
+    margin-left: 20px; 
+}
+
+.play {
+    border-radius: 15px;
+    color: #3C8D6C;
+    padding: 10px;
+    border: 1px solid #3C8D6C;
+    float: left;
+    margin-bottom: 20px; 
+    margin-left: 10px;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.pl {
+    position: relative;
+    bottom: 5px;
+}
